@@ -25,4 +25,4 @@ https://developer.spotify.com/
 
 
 ## Article About this Project 
-Medium Article - https://medium.com/@ahmadkamiludin/migrate-your-data-seamlessly-a-quick-end-to-end-guide-from-snowflake-to-microsoft-azure-for-36b9ce3557d6
+Medium Article - https://medium.com/@ahmadkamiludin/real-time-music-data-streaming-using-apache-kafka-leveraging-avenged-sevenfold-data-from-spotify-25304abcb9bb
