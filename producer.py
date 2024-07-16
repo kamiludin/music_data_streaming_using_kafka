@@ -108,8 +108,8 @@ def main():
         return
 
     # Set up Spotify credentials
-    client_id = '104a2d1e7dfd45f7ab07e5785c972aef'
-    client_secret = 'd03cab27a0614366aef21356775a63f8'
+    client_id = 'your_spotify_client_id'
+    client_secret = 'your_spotify_client_secret'
     sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
 
     artist_name = 'Avenged Sevenfold'

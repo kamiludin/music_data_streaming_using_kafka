@@ -26,3 +26,4 @@ https://developer.spotify.com/
 
 ## Article About this Project 
 Medium Article - https://medium.com/@ahmadkamiludin/real-time-music-data-streaming-using-apache-kafka-leveraging-avenged-sevenfold-data-from-spotify-25304abcb9bb
+
